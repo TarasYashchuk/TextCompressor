@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextCompressor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextCompressor_jar</output-path>
+    <root id="archive" name="TextCompressor.jar">
+      <element id="module-output" name="TextCompressor" />
+    </root>
+  </artifact>
+</component>
